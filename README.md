@@ -8,3 +8,4 @@
 ![AltText](https://github.com/Larasati11/GUI/blob/master/guicekideal.png)
 ![AltText](https://github.com/Larasati11/GUI/blob/master/guikuis1.png)
 ![AltText](https://github.com/Larasati11/GUI/blob/master/guikuis2.png)
+![AltText](https://github.com/Larasati11/GUI/blob/master/guitabel.png)
