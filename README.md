@@ -6,4 +6,4 @@
 ![AltText](https://github.com/Larasati11/GUI/blob/master/guibola.png)
 ![AltText](https://github.com/Larasati11/GUI/blob/master/guikubus.png)
 ![AltText](https://github.com/Larasati11/GUI/blob/master/guicekideal.png)
-
+![AltText](https://github.com/Larasati11/GUI/blob/master/guikuis1.png)
